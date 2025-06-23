@@ -1,7 +1,7 @@
 // Styling for the contact section
 
 section#contact {
-    background-image: url('../img/bg-footer1.jpg');
+    background-image: url('../bg-footer1.jpg');
     @include background-cover;
     .section-heading {
       color: $white;
